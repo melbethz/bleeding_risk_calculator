@@ -1,0 +1,4 @@
+streamlit==1.19.0
+numpy==1.26.0
+setuptools>=67.0.0
+wheel
